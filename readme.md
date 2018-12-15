@@ -1,3 +1,5 @@
+copy of the Pytorch version [chaiyujin/glow-pytorch] (https://github.com/search?q=glow-pytorch)
+
 # Glow
 This is pytorch implementation of paper "Glow: Generative Flow with Invertible 1x1 Convolutions". Most modules are adapted from the offical TensorFlow version [openai/glow](https://github.com/openai/glow).
 
